@@ -11,6 +11,7 @@
  * @precision: precision specifier
  * @size: Size specifier
  *
+ * Handlers file
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],
